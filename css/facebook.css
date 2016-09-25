@@ -8,3 +8,7 @@ right: 20px;
 body {
   padding-top: 60px;
 }
+
+.fb-search {
+  width: 395px !important;
+}

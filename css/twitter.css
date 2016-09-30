@@ -1,0 +1,26 @@
+body {
+padding-top: 60px;
+}
+
+.navbar-nav li a .glyphicon{
+  margin-right: 5px;
+}
+
+.tw-search {
+  border-top-left-radius: 20px !important;
+  border-bottom-left-radius: 20px !important;
+}
+
+.tw-search-right {
+  border-top-right-radius: 20px !important;
+  border-bottom-right-radius: 20px !important;
+}
+
+.btns li a{
+  color:grey;
+  margin-right: 50px;
+}
+
+.signs {
+  margin-top: 10px;
+}
